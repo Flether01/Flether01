@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flether01
+- 👋 Hi, I’m @Pradyumn
 - 👀 I’m interested in ... Coding and Talking to Good People and Sports
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Learning Coding
